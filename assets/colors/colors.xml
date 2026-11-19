@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Brand palette. flutter_gen turns each color into ColorName.<name>
+     (lib/src/shared/assets/colors.gen.dart). Feed them into AppTheme;
+     widgets read colors from Theme.of(context).colorScheme. -->
+<resources>
+    <color name="primary">#0175C2</color>
+    <color name="secondary">#13B9FD</color>
+    <color name="error">#B00020</color>
+    <!-- Used directly (not via the theme) behind illustrations. -->
+    <color name="illustrationBackground">#E3F2FD</color>
+</resources>

@@ -1,0 +1,11 @@
+{
+  "appName": "Flutter Boilerplate",
+  "common": {
+    "retry": "Coba lagi",
+    "error": "Terjadi kesalahan"
+  },
+  "post": {
+    "title": "Postingan",
+    "empty": "Belum ada postingan"
+  }
+}
